@@ -3,3 +3,10 @@
 ################################################################################
 
 /RabbitMQ.Demo.Common/obj
+/.vs/RabbitMQ.Demo/v17
+/.vs/RabbitMQ.Demo
+/RabbitMQ.Demo.PS.Publisher/obj
+/RabbitMQ.Demo.PS.Subscriber/obj
+/RabbitMQ.Demo.StandardQueue/obj
+/RabbitMQ.Demo.WQ.Consumer/obj
+/RabbitMQ.Demo.WQ.Producer/obj
