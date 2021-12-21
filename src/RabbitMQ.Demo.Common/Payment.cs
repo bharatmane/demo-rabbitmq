@@ -1,4 +1,6 @@
-﻿namespace RabbitMQ.Demo.Common
+﻿using System;
+
+namespace RabbitMQ.Demo.Common
 {
     [Serializable]
     public class Payment

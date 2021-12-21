@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+namespace RabbitMQ.Demo.WQ.Producer
+{
+
+    class Program
+    {
+
+        public static void Main()
+        {
+
+        }
+    }
+}
