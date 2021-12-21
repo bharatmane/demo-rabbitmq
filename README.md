@@ -12,7 +12,7 @@ Download latest version of @[RabbitMQ](https://www.rabbitmq.com/install-windows.
 If you follow the default installation "C:\Program Files\RabbitMQ Server\rabbitmq_server-3.9.11\"
 
 Navigate to the directory using command prompt and list the content of sbin directory
-
+ 
 ![Sbin](docs/images/sbin.PNG)
 
 
