@@ -8,6 +8,7 @@ namespace RabbitMQ.Demo.PS.Publisher
 
         public static void Main()
         {
+            //to be implemented in couple of days 
 
         }
     }
