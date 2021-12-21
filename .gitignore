@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs/RabbitMQ.Demo
+/docs/.gitignore
+/src/.vs/RabbitMQ.Demo/v17
+/src/RabbitMQ.Demo.Common/obj
+/src/RabbitMQ.Demo.PS.Publisher/obj
+/src/RabbitMQ.Demo.PS.Subscriber/obj
+/src/RabbitMQ.Demo.StandardQueue/bin/Debug/net6.0
+/src/RabbitMQ.Demo.StandardQueue/obj
+/src/RabbitMQ.Demo.StandardQueue.Test/bin/Debug/net6.0
+/src/RabbitMQ.Demo.StandardQueue.Test/obj
+/src/RabbitMQ.Demo.WQ.Consumer/obj
+/src/RabbitMQ.Demo.WQ.Producer/obj
